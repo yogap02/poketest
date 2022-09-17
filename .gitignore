@@ -1,0 +1,4 @@
+test/fe/playwright/node_modules
+test/fe/playwright/test-results/
+test/fe/playwright/playwright-report/
+test/fe/playwright/.cache/
