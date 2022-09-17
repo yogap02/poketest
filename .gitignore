@@ -1,4 +1,5 @@
-test/fe/playwright/node_modules
-test/fe/playwright/test-results/
-test/fe/playwright/playwright-report/
-test/fe/playwright/.cache/
+test/playwright/node_modules
+test/playwright/test-results/
+test/playwright/playwright-report/
+test/playwright/.cache/
+test/jest/node_modules
